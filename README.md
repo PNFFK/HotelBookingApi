@@ -8,7 +8,7 @@ This project allows users to:
 
 **How to run:**
 
-git clone <your-repository-link>
+git clone https://github.com/PNFFK/HotelBookingApi
 
 cd HotelBookingApi
 
